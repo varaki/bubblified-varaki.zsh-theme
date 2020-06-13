@@ -1,8 +1,8 @@
 # vim:ft=sh
 
-# Bubble Theme
-# Inspired by bubblewritten and agnoster
-# written by hohmannr
+# Bubblified Theme
+# Inspired by hohmannr
+# written by varaki
 
 # SYMBOL CONSTANTS
 blub_left=''
