@@ -118,3 +118,5 @@ else
 fi
 RPROMPT='%{$_lineup%}$error_code_bubble%{$_linedown%}%{$reset_color%}'
 
+# Make comments visible
+ZSH_HIGHLIGHT_STYLES[comment]=fg=8
